@@ -1,0 +1,73 @@
+2025-03-25 22:18:55 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: 'long com.slytechs.library.NativeLibrary.dlopen(java.lang.String)'
+2025-03-25 22:18:55 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.UnsatisfiedLinkError: 'long com.slytechs.library.NativeLibrary.dlopen(java.lang.String)'
+2025-03-25 22:19:05 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:05 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:06 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:06 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:06 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:06 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:08 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:08 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:09 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:09 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:09 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:09 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:09 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:09 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:30 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:30 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:31 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:31 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:31 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:31 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:31 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:31 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:31 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:31 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:32 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:32 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:50 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:50 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:52 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:19:52 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:20:47 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:20:47 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:20:53 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:20:53 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:20:54 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:20:54 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:20:54 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:20:54 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:20:54 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:20:54 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:20:58 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:20:58 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:21:22 INFO  cic.cs.unb.ca.ifm.Cmd    Please select pcap!
+2025-03-25 22:29:31 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input D:\example.pcap
+2025-03-25 22:29:49 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output D:\output
+2025-03-25 22:31:05 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output D:\GiliSoft_AI_Toolkit_10.1
+2025-03-25 22:32:15 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:32:15 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:33:28 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input D:\pcap files
+2025-03-25 22:33:33 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output D:\output fiels
+2025-03-25 22:34:01 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2025-03-25 22:34:13 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select input D:\pcap files
+2025-03-25 22:34:18 DEBUG cic.cs.unb.ca.flow.ui.FlowOfflinePane    offline select output D:\output fiels
+2025-03-25 22:34:20 DEBUG cic.cs.unb.ca.jnetpcap.worker.ReadPcapFileWorker    CICFlowMeter found :1 pcap files
+2025-03-25 22:35:09 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:35:09 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:35:21 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:35:21 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:36:38 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:36:38 DEBUG cic.cs.unb.ca.flow.ui.FlowMonitorPane    java.lang.NoClassDefFoundError: Could not initialize class org.jnetpcap.Pcap
+2025-03-25 22:38:14 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
+2025-03-25 22:38:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 280 flow
+2025-03-25 22:38:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 279 flow
+2025-03-25 22:38:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 280 flow
+2025-03-25 22:38:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 279 flow
+2025-03-25 22:38:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 300 flow
+2025-03-25 22:38:37 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 534 flow
+2025-03-25 22:38:41 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    Pcap stop listening
+2025-03-25 22:38:41 INFO  cic.cs.unb.ca.flow.ui.FlowMonitorPane    path:C:\Users\rushi\Downloads\cicflowmeter-4\CICFlowMeter-4.0\bin\data\daily\2025-03-25_Flow.csv
+2025-03-25 22:38:43 DEBUG cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    break Packet loop
+2025-03-25 23:14:42 INFO  cic.cs.unb.ca.jnetpcap.worker.TrafficFlowWorker    Pcap is listening...
